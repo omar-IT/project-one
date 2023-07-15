@@ -5,4 +5,7 @@ create task4
 create task5
 create task6
 create task7
+<<<<<<< HEAD
 create task8
+=======
+>>>>>>> 5c3a399e3c0086556f866c88b1bc5c26ac9abf4c
