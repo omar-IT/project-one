@@ -1,18 +1,8 @@
 hi
 how are you doing
 im omar!
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 5c3a399e3c0086556f866c88b1bc5c26ac9abf4c
 i study faculity of IT
 im from syria
 im born in daraa
 i lov play football
-
-
-<<<<<<< HEAD
-=======
->>>>>>> location
-=======
->>>>>>> 5c3a399e3c0086556f866c88b1bc5c26ac9abf4c
+I love you
