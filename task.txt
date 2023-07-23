@@ -8,10 +8,3 @@ create task7
 create task8
 create task9
 create task10
-create task11
-create task12
-create task13
-create task14
-create task15
-create task16
-create task17
